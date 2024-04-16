@@ -98,7 +98,7 @@ const Login = () => {
                             <CardHeader>
                                 <CardTitle style={{ fontFamily: "AudioWide", fontSize: "2rem", fontWeight: "lighter" }}>Proxi-Chat</CardTitle>
                                 <CardDescription className="">
-                                    Welcome to Proxi-Chat! Please login to continue.
+                                    Welcome to Axion! Please login to continue.
                                 </CardDescription>
                             </CardHeader>
                             <CardContent className="space-y-2">
@@ -121,7 +121,7 @@ const Login = () => {
                             <CardHeader className="text-center">
                                 <CardTitle style={{ fontFamily: "AudioWide", fontSize: "2rem", fontWeight: "lighter" }}>Proxi-Chat</CardTitle>
                                 <CardDescription>
-                                    Welcome to Proxi-Chat! Please Register to continue.
+                                    Welcome to Axion! Please Register to continue.
                                 </CardDescription>
                             </CardHeader>
                             <CardContent className="space-y-2">
