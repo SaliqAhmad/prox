@@ -96,7 +96,7 @@ const Login = () => {
                     <TabsContent value="Login">
                         <Card>
                             <CardHeader>
-                                <CardTitle style={{ fontFamily: "AudioWide", fontSize: "2rem", fontWeight: "lighter" }}>Proxi-Chat</CardTitle>
+                                <CardTitle style={{ fontFamily: "AudioWide", fontSize: "2rem", fontWeight: "lighter" }}>Axion</CardTitle>
                                 <CardDescription className="">
                                     Welcome to Axion! Please login to continue.
                                 </CardDescription>
@@ -119,7 +119,7 @@ const Login = () => {
                     <TabsContent value="Register">
                         <Card>
                             <CardHeader className="text-center">
-                                <CardTitle style={{ fontFamily: "AudioWide", fontSize: "2rem", fontWeight: "lighter" }}>Proxi-Chat</CardTitle>
+                                <CardTitle style={{ fontFamily: "AudioWide", fontSize: "2rem", fontWeight: "lighter" }}>Axion</CardTitle>
                                 <CardDescription>
                                     Welcome to Axion! Please Register to continue.
                                 </CardDescription>
